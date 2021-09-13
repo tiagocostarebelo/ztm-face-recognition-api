@@ -18,7 +18,7 @@ The Project uses the following main tech Stack:
 *BCrypt* for password encrypting
 *Knex.js* for DB <-> Server connection
 
-### Application fully deployed on Heroku here
+### Application fully deployed on Heroku [here](https://face--recognition--app.herokuapp.com/)
 
 
 
